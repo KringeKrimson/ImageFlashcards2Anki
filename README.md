@@ -18,7 +18,7 @@ Before using this script, ensure you have the following prerequisites installed:
 1. Clone or download this repository to your local machine.
 
 ```bash
-https://github.com/KringeKrimson/ImageFlashcards2Anki.git
+git clone https://github.com/KringeKrimson/ImageFlashcards2Anki.git
 ```
 2. Install the genanki library if you haven't already.
 
